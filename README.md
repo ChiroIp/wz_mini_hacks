@@ -2,6 +2,9 @@
 ## Clients
 Windows10/11 UWP APP Client:
 https://www.microsoft.com/store/apps/9NT2QL4X9RBP
+VLC: https://www.videolan.org/vlc/
+FFMPEG: https://ffmpeg.org/
+
 ## Disclaimer
 ### v2/car/PANv1/v3/PANv2 devices ONLY
 
